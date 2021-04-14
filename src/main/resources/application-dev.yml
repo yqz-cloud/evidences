@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    name: credit_yun
+    url: jdbc:mysql://47.110.241.224:3306/evidence?&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&tinyInt1isBit=false&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: 357644_yqz
